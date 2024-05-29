@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>SPINLOG(스핀로그)</h1>
-  <img src="https://github.com/SpinLog/profile/assets/63975200/143d24b2-70b8-4e7d-8b6a-fe6176d46a30.png"/>
+  <img src="https://github.com/SpinLog/.github/assets/63975200/10a367a8-d5e8-4163-9ea2-d72c1f28ad7d.png"/>
   <p> <a href = "https://spinlog.swygbro.com/">스핀로그 바로가기</a> </p>
 </div>
 
@@ -39,17 +39,17 @@
 ## 팀원 👨‍👨‍👧‍👧👩‍👦‍👦
 |  PM    |Frontend|Frontend|Backend |Backend |Backend |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-|<img src="https://github.com/SpinLog/profile/assets/63975200/c1c85364-6ef3-4754-9677-17336a7d6120.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/profile/assets/63975200/375e6140-f216-47d4-85a0-16e1971caedd.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/profile/assets/63975200/13961f47-b0b4-4da5-85bf-ba00ed0dddef.png"  width="200" height="150"/>|<img src="https://github.com/SpinLog/profile/assets/63975200/54a42e96-f0aa-445c-8fd7-e52cbfb9af4d.png"  width="200" height="150"/>|<img src="https://github.com/SpinLog/profile/assets/63975200/82fd53ce-187d-4c54-80f0-64ce974fe352.png"  width="200" height="150"/>|<img src="https://github.com/SpinLog/profile/assets/63975200/a4aa3c4b-744f-44ff-aa22-7a852eaf0e25.png"  width="200" height="150"/>|
+|<img src="https://github.com/SpinLog/.github/assets/63975200/93e04d23-671a-4627-85ce-fe6a74676a65.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/.github/assets/63975200/b0c2f50d-88af-4f2a-b066-60952fe48a44.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/.github/assets/63975200/77c32d66-3e42-4876-9668-9b91950762ad.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/.github/assets/63975200/2626a794-6c18-4bad-82ca-39df7ac626eb.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/.github/assets/63975200/5af3c432-e3e0-4fe0-af84-c5d24f2f655d.png" width="200" height="150"/>|<img src="https://github.com/SpinLog/.github/assets/63975200/f3a5d8d0-5c9e-4bc1-ae54-2f7cf75fc484.png" width="200" height="150"/>|
 |[이지혜](https://github.com/easyhey)|[장세영](https://github.com/JANGSEYEONG)|[이호찬](https://github.com/lhc0506)|[정영동](https://github.com/Yeongdong)|[한상현](https://github.com/Hansanghyun-github)|[황중섭](https://github.com/seop-h)|
 <br>
 
 ## 프로젝트 기술스택 💡
 
 #### 프론트엔드
-<img width="644" alt="front-stack" src="https://github.com/SpinLog/profile/assets/63975200/0599b13e-b089-4f5a-abd4-b232302b6853">
+<img width="644" alt="front-stack" src="https://github.com/SpinLog/.github/assets/63975200/b77f0e50-fabe-433a-8b5c-f5887f50b0e1">
 
 #### 백엔드
-<img width="644" alt="back-stack" src="https://github.com/SpinLog/profile/assets/63975200/137ca3a3-a1ea-4533-8354-1dce4ec1c9f3">
+<img width="644" alt="back-stack" src="https://github.com/SpinLog/.github/assets/63975200/5f102726-60cc-4ba0-a363-fa51364dad40">
 
 <br>
 <br>
